@@ -1,0 +1,60 @@
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\bin\Debug\stok_takip_otomasyonu.exe.config
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\bin\Debug\stok_takip_otomasyonu.exe
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\bin\Debug\stok_takip_otomasyonu.pdb
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.Form1.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.Properties.Resources.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.csproj.GenerateResource.cache
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.csproj.CopyComplete
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.exe
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.pdb
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.satissayfasi.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.Müşterieklemesayfası.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.müşteri_listeleme.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.ürünekle.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.KategoriSayfası.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.markaekleme.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\bin\Debug\stok_takip_otomasyonu.exe.config
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\bin\Debug\stok_takip_otomasyonu.exe
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\bin\Debug\stok_takip_otomasyonu.pdb
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.Form1.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.KategoriSayfası.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.markaekleme.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.müşteri_listeleme.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.Müşterieklemesayfası.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.Properties.Resources.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.satissayfasi.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.ürünekle.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.ürünlisteleme.resources
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.csproj.GenerateResource.cache
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.csproj.CopyComplete
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.exe
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.pdb
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\bin\Debug\stok_takip_otomasyonu.exe.config
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\bin\Debug\stok_takip_otomasyonu.exe
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\bin\Debug\stok_takip_otomasyonu.pdb
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.Form1.resources
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.KategoriSayfası.resources
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.markaekleme.resources
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.müşteri_listeleme.resources
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.Müşterieklemesayfası.resources
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.Properties.Resources.resources
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.satissayfasi.resources
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.ürünekle.resources
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.ürünlisteleme.resources
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.csproj.GenerateResource.cache
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.csproj.CopyComplete
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.exe
+C:\Users\cengi\Desktop\Yeni klasör (4)\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.pdb
+C:\Users\cengi\Desktop\stok_takip_otomasyonu - Kopya\stok_takip_otomasyonu\obj\Debug\stok_takip_otomasyonu.satışlısteleme.resources
